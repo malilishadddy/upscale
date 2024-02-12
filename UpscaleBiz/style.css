@@ -1,0 +1,44 @@
+body{
+  margin-top: 94px;
+}
+.logo{
+  width:100px ;
+  height:66px ;
+}
+.section1{
+  background: #060e3a;
+  
+}
+.mrkt{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 50px;
+}
+.energy{
+   color:#fe8610 ;
+}
+
+#about{
+  background: #eae3d2;
+ 
+}
+#services{
+  background: #69bcda;
+}
+ .card{
+  height: 20rem;
+} 
+.card-img-top{
+  height: 10rem;
+}
+.btn{
+  background:#060e3a;
+  margin-top: 15px;
+  border-radius: 30px;
+  font-size: 18px;
+  border:none;
+  pointer-events: none;
+  width: 100%;
+  justify-content: center;
+  align-content: center;
+}
+
